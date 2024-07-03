@@ -23,14 +23,14 @@ Summary of REST endpoints provided by the application:
 
 Prerequisites 
 Database Setup:
-● Ensure MySQL server is installed and running.
-● Create a database named case_study.
-● Configure the database connection in application.properties file.
+    Ensure MySQL server is installed and running.
+    Create a database named case_study.
+    Configure the database connection in application.properties file.
 
 Application Build and Deployment:
-● Java JDK installed.
-● Maven or Gradle for dependency management.
-● IDE (IntelliJ IDEA, Eclipse) for development.
+    Java JDK installed.
+    Maven or Gradle for dependency management.
+    IDE (IntelliJ IDEA, Eclipse) for development.
 
 Steps for Running and Testing the Application
 1. Clone the repository from GitHub:
